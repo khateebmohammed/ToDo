@@ -1,2 +1,2 @@
 # ToDo
- Flutter Notes App with GitX and Firbase
+ Flutter Notes App with GitX and Firebase
