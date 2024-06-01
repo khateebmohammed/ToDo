@@ -6,8 +6,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:readmore/readmore.dart';
 import 'package:share_plus/share_plus.dart';
 import '../../Controller/NoteController.dart';
-
 import '../../Controller/helpers/cloud_firestore_helper.dart';
+
 
 class searchDelegate extends SearchDelegate {
   NoteController controller = Get.find();
